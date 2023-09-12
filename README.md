@@ -1,25 +1,30 @@
-### Hi there 👋
 
-
-<!--
 # M.Tolga Coşkun
 
-Python and Web developer using and open source software to help people better understand languages and texts.
+I am someone who develops backend projects using the skills and flexibility of open-source programming
+
 
 ## Main Projects
 
-- https://*
-- https://*
-- https://*
+- https://Loading
+- https://Loading
+- https://Loading
 
-plus many Python Django DRF and more!
+plus many and more!
 
-## Educational Background
+## Languages and Tools
 
-- Linguistics
-
+- Python
+- Django
+- DRF
+- SQL
+- PSQL
+- RabbitMQ
+- Redis
+- Docker
+- Nginx
 
 ## Hire Me and My Company
 
 - https://*
--->
+
