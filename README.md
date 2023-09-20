@@ -26,5 +26,5 @@ plus many and more!
 
 ## Hire Me and My Company
 
-- https://*
+- https://tolgacoskun.com/
 
