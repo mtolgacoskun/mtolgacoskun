@@ -26,5 +26,5 @@ plus many and more!
 
 ## Hire Me and My Company
 
-- <a href="https://tolgacoskun.com" target="_blank">tolgacoskun</a>
+- <a href="https://tolgacoskun.com" target="_blank">tolgacoskun.com</a>
 
